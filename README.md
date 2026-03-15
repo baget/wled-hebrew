@@ -4,6 +4,10 @@ Display Hebrew, English, or mixed-script text on a WLED LED matrix over your loc
 
 Renders text using Pillow, maps pixels to LED indices, and sends frames via UDP using WLED's DNRGB protocol. Designed for a **32x8 LED matrix** but configurable for other sizes.
 
+## Demo
+
+<video src="assets/Demo.mp4" controls width="600"></video>
+
 ## Features
 
 - Hebrew and English text with automatic per-character font selection
