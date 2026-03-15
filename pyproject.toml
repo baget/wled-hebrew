@@ -1,0 +1,9 @@
+[project]
+name = "wled-hebrew"
+version = "0.1.0"
+description = "Display Hebrew/English text on a WLED LED matrix via UDP"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pillow>=12.1.1",
+]
