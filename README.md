@@ -6,7 +6,7 @@ Renders text using Pillow, maps pixels to LED indices, and sends frames via UDP 
 
 ## Demo
 
-<video src="assets/Demo.mp4" controls width="600"></video>
+![Demo](assets/demo.gif)
 
 ## Features
 
